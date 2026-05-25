@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **DevCarlosJunior9@gmail.com**
 
-- ⚡ Fun fact **I love solving logic puzzles and turning ideas into web applications!**
+- ⚡ Fun fact: **I love solving logic puzzles and turning ideas into web applications!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
